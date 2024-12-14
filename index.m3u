@@ -108,9 +108,9 @@ https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
 
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
+#EXTINF:-1 group-title="INDIHOME"  tvg-id="SPOTV.id" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
+#EXTINF:-1 group-title="INDIHOME" tvg-id="SPOTV2.id"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 1 - no Vpn
