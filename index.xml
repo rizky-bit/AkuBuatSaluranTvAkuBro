@@ -10,4 +10,9 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_308.png" />
     <url>http://www.mncvision.id</url>
   </channel>
+    <channel id="MyCinemaAsia">
+    <display-name lang="id">My Cinema Asia</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_17.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
 </tv>
