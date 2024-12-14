@@ -1,0 +1,10 @@
+<channel id="SPOTV.id">
+    <display-name lang="id">SPOTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_307.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV2.id">
+    <display-name lang="id">SPOTV2</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_308.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
