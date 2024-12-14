@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 <channel id="SPOTV.id">
     <display-name lang="id">SPOTV</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_307.png" />
@@ -8,3 +10,4 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_308.png" />
     <url>http://www.mncvision.id</url>
   </channel>
+</tv>
