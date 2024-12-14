@@ -52,6 +52,9 @@ https://s.id/newY8
 #EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png" group-title="Premium Movies",HitsMovies
 https://s.id/2Fe4H
 
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg" tvg-id="39" , ROCK Entertainment HD
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/1024px-Logo_MAX_horizontal_on_white_.jpg" group-title="Premium Movies",Maxstream
