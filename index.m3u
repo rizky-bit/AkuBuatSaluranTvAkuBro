@@ -156,3 +156,21 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63499
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 01 FHD 
+http://extraott.com:80/live/3969424152/3723991250/20.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 02 FHD 
+http://extraott.com:80/live/3969424152/3723991250/21.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 03 FHD 
+http://extraott.com:80/live/3969424152/3723991250/6.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 04 FHD 
+http://extraott.com:80/live/3969424152/3723991250/7.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 05 FHD 
+http://extraott.com:80/live/3969424152/3723991250/8.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 06 FHD 
+http://extraott.com:80/live/3969424152/3723991250/9.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 07 FHD 
+http://extraott.com:80/live/3969424152/3723991250/10.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 08 FHD 
+http://extraott.com:80/live/3969424152/3723991250/11.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SHAREEXT@ARABIAN ➾  SPORTS", BEIN SPORTS 09 FHD 
+http://extraott.com:80/live/3969424152/3723991250/12.m3u8
