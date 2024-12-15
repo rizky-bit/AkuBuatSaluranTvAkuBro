@@ -13,10 +13,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png",Animax
-https://s.id/3yGYQ
 
 #EXTINF:-1 group-title="ANIME"  tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Faniplus.png?alt=media&token=2fa2d637-1c28-4c64-b0a7-9d69c7435595",AniPlus Indonesia
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
@@ -50,11 +46,6 @@ https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 #EXTINF:-1 group-title="Shareext@MOVIES"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",🇲🇨 GALAXY PREMIUM
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png" group-title="Premium Movies",HitsMovies
-https://s.id/2Fe4H
-
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg" tvg-id="39" , ROCK Entertainment HD
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
@@ -84,11 +75,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
 http://rr3.dens.tv/s/s34/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://archive.org/download/k_20230607/K+.png" group-title="Korean Channels",K+
-https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
